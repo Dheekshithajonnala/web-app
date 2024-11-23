@@ -3,96 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>blog page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-
-        .header {
-            background: #333;
-            color: #fff;
-            text-align: center;
-            padding: 2rem 0;
-        }
-
-        .header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-
-        .header p {
-            font-size: 1.2rem;
-            margin-top: 0.5rem;
-        }
-
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            justify-content: center;
-            padding: 2rem;
-        }
-
-        .blog-card {
-            background: #fff;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            width: 300px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-            transition: transform 0.3s;
-        }
-
-        .blog-card:hover {
-            transform: translateY(-10px);
-        }
-
-        .blog-card img {
-            width: 100%;
-            height: auto;
-        }
-
-        .blog-card .content {
-            padding: 1rem;
-        }
-
-        .blog-card h2 {
-            font-size: 1.5rem;
-            margin: 0 0 0.5rem;
-        }
-
-        .blog-card p {
-            font-size: 1rem;
-            margin: 0 0 1rem;
-            color: #666;
-        }
-
-        .blog-card a {
-            display: inline-block;
-            text-decoration: none;
-            color: #007bff;
-            font-weight: bold;
-            transition: color 0.3s;
-        }
-
-        .blog-card a:hover {
-            color: #0056b3;
-        }
-
-        .footer {
-            text-align: center;
-            background: #333;
-            color: #fff;
-            padding: 1rem 0;
-            margin-top: 2rem;
-        }
-    </style>
+    <title>Blog Page</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header class="header">
@@ -130,4 +42,3 @@
     </footer>
 </body>
 </html>
-
