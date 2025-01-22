@@ -13,7 +13,7 @@
     </header>
     <main class="container">
         <section class="blog-card">
-            <img src="https://via.placeholder.com/300" alt="Person 1">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.HE4uxYe-5o3VfSlz_83ZQwHaFj&pid=Api&P=0&h=180">
             <div class="content">
                 <h2>Dheekshitha</h2>
                 <p>Creative thinker | Storyteller | Passionate about [your niche, e.g., "design," "travel," "wellness"] ✨
