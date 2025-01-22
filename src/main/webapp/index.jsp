@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog Page</title>
+    <title>The Fashionista Diaries</title>
     <style>
         body {
             margin: 0;
@@ -100,7 +100,7 @@
 </head>
 <body>
     <header class="header">
-        <h1>Our Blog</h1>
+        <h1>The Fashionista Diaries</h1>
         <p>In this post, we take you behind the scenes to meet the incredible individuals driving innovation and excellence. Learn about Dheekshitha's journey, Gayathri's creative process, and Malavika's approach to collaboration.</p>
     </header>
     <main class="container">
