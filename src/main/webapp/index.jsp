@@ -116,7 +116,7 @@
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://gayyy.s3.us-east-1.amazonaws.com/ggggg.jpg">
+            <img src="https://gayathriiii.s3.us-east-1.amazonaws.com/ggggg.jpg">
             <div class="content">
                 <h2>Gayathri</h2>
                 <p>Fashion Model | Style Enthusiast | Elegance Redefined. Bringing trends to life with poise and creativity.</p>
