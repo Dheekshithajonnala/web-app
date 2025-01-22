@@ -116,7 +116,7 @@
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://malavika1.s3.us-east-1.amazonaws.com/gayathri+photo+copy.jpg">
+            <img src="https://malavika1.s3.us-east-1.amazonaws.com/gay+photo+copy.jpg">
             <div class="content">
                 <h2>Gayathri</h2>
                 <p>Fashion Model | Style Enthusiast | Elegance Redefined. Bringing trends to life with poise and creativity.</p>
