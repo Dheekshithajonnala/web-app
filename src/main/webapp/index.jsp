@@ -8,7 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-image: url('https://tse4.mm.bing.net/th?id=OIP.HE4uxYe-5o3VfSlz_83ZQwHaFj&pid=Api&P=0&h=180');
+            background-image: url('https://img.freepik.com/free-photo/black-background-with-leaves-vegetation-texture_23-2149872513.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
