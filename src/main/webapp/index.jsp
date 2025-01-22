@@ -135,18 +135,20 @@
     <div id="dheekshitha" class="content-detail">
         <h1>Dheekshitha's Journey</h1>
         <p>Dheekshitha is a creative thinker, storyteller, and passionate individual. She blends creativity with insight and helps brands tell authentic stories. Here's a closer look at her journey:</p>
+        <p>Her love for design started at a young age when she would experiment with different forms of art and design. As she grew, her interests expanded into travel and wellness, which became major sources of inspiration in her work. She believes in the power of storytelling to ignite change and create impact, whether through a simple blog post or a visual design.</p>
         <div class="gallery">
             <img src="https://example.com/dheekshitha-image1.jpg" alt="Dheekshitha Image 1">
             <img src="https://example.com/dheekshitha-image2.jpg" alt="Dheekshitha Image 2">
             <img src="https://example.com/dheekshitha-image3.jpg" alt="Dheekshitha Image 3">
         </div>
-        <p>Her passion for wellness and travel drives her storytelling and inspires others to explore their creative potential. Learn more about her journey and vision.</p>
+        <p>Her passion for wellness and travel drives her storytelling and inspires others to explore their creative potential. Learn more about her journey and vision to spark your own creative spark.</p>
     </div>
 
     <!-- Gayathri Detailed Content -->
     <div id="gayathri" class="content-detail">
         <h1>Gayathri's Fashion Journey</h1>
         <p>Gayathri is a fashion model and style enthusiast who defines elegance in the world of fashion. Here are some images showcasing her journey:</p>
+        <p>Her career in fashion began in her early twenties, and since then, she has worked with leading brands and designers. Gayathri's sense of style is unique—she combines classic elegance with modern trends. She believes that fashion is a form of self-expression, and she uses it to convey personality and confidence.</p>
         <div class="gallery">
             <img src="https://example.com/gayathri-image1.jpg" alt="Gayathri Image 1">
             <img src="https://example.com/gayathri-image2.jpg" alt="Gayathri Image 2">
@@ -159,12 +161,13 @@
     <div id="malavika" class="content-detail">
         <h1>Malavika's Fashion Evolution</h1>
         <p>Malavika is a trendsetter, creating chic and contemporary styles that inspire others. Here's a deeper look at her style and influences:</p>
+        <p>Malavika's influence in the fashion world is marked by her bold yet graceful approach to style. From casual streetwear to sophisticated couture, she has an eye for blending different elements to create timeless looks. She started out as a stylist, eventually transitioning into modeling and now acts as a creative director for various fashion brands.</p>
         <div class="gallery">
             <img src="https://example.com/malavika-image1.jpg" alt="Malavika Image 1">
             <img src="https://example.com/malavika-image2.jpg" alt="Malavika Image 2">
             <img src="https://example.com/malavika-image3.jpg" alt="Malavika Image 3">
         </div>
-        <p>Malavika's unique perspective on modern fashion allows her to set trends and inspire chic looks for all ages. Get to know her style and what makes her a fashion icon.</p>
+        <p>Malavika's unique perspective on modern fashion allows her to set trends and inspire chic looks for all ages. Her influence extends across various fashion segments, and she’s known for constantly pushing the boundaries of style.</p>
     </div>
 
     <footer class="footer">
