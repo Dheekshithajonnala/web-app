@@ -127,7 +127,7 @@
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://malavika1.s3.us-east-1.amazonaws.com/maalu+photo.jpg">
+            <img src="https://malavika1.s3.us-east-1.amazonaws.com/malvika+photo+copy.jpg">
             <div class="content">
                 <h2>Malavika</h2>
                 <p>Trendsetter | Lover of All Things Chic & Contemporary. Exploring fashion, lifestyle, and everything stylish.</p>
