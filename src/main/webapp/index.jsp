@@ -17,32 +17,34 @@
             <div class="content">
                 <h2>Dheekshitha</h2>
                 <p>Creative thinker | Storyteller | Passionate about [your niche, e.g., "design," "travel," "wellness"] ✨
-Sharing insights, ideas, and inspiration to spark your imagination. 💡.</p>
+Sharing insights, ideas, and inspiration to spark your imagination.</p>
                 <a href="#">Read More</a>
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://via.placeholder.com/300" alt="Person 2">
+            <img src="https://tse2.mm.bing.net/th?id=OIP.ooDzxNLznRyw2Qfck-9rcwHaHa&pid=Api&P=0&h=180">
             <div class="content">
                 <h2>Gayathri</h2>
-                <p>🌟 Gayathri
-Fashion Model | Style Enthusiast | Elegance Redefined ✨
-📸 Bringing trends to life with poise and creativity.
-💃 Passionate about runway, editorial, and everything chic.</p>
+                <p> Gayathri
+Fashion Model | Style Enthusiast | Elegance Redefined 
+ Bringing trends to life with poise and creativity.
+ Passionate about runway, editorial, and everything chic.</p>
                 <a href="#">Read More</a>
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://via.placeholder.com/300" alt="Person 3">
+            <img src="https://tse3.mm.bing.net/th?id=OIP.WLRMJj8pT85iQg5Iy4B26QHaHa&pid=Api&P=0&h=180">
             <div class="content">
                 <h2>Malavika</h2>
-                <p>🌟 Malavika
+                <p> Malavika
 Trendsetter | Lover of All Things Chic & Contemporary ✨
-📸 Exploring fashion, lifestyle, and everything stylish.
-🌍 Inspiring modern vibes with a touch of elegance.</p>
+ Exploring fashion, lifestyle, and everything stylish.
+ Inspiring modern vibes with a touch of elegance.</p>
                 <a href="#">Read More</a>
             </div>
         </section>
+ <section class="blog-card">
+            <img src="https://tse3.mm.bing.net/th?id=OIP.ufAMp7G5MGsO0HPAPDj9mwHaH_&pid=Api&P=0&h=180">
     </main>
     <footer class="footer">
         <p>&copy; 2024 Our Blog. All rights reserved.</p>
