@@ -64,10 +64,17 @@
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s;
+            cursor: pointer;
         }
 
         .content a:hover {
             color: #ffc107;
+        }
+
+        .extra-content {
+            display: none;
+            margin-top: 15px;
+            color: #f0f0f0;
         }
 
         .footer {
@@ -80,6 +87,16 @@
             color: #fff;
         }
     </style>
+    <script>
+        function toggleContent(id) {
+            const content = document.getElementById(id);
+            if (content.style.display === "none" || content.style.display === "") {
+                content.style.display = "block";
+            } else {
+                content.style.display = "none";
+            }
+        }
+    </script>
 </head>
 <body>
     <header class="header">
@@ -92,7 +109,10 @@
             <div class="content">
                 <h2>Dheekshitha</h2>
                 <p>Creative thinker | Storyteller | Passionate about design, travel, and wellness. Sharing insights, ideas, and inspiration to spark your imagination.</p>
-                <a href="dheekshitha.html">Read More</a> <!-- Link to Dheekshitha's detailed page -->
+                <a onclick="toggleContent('extra-dheekshitha')">Read More</a>
+                <div class="extra-content" id="extra-dheekshitha">
+                    <p>Dheekshitha combines creativity and analytics to craft stories that captivate audiences. With years of experience in storytelling, she helps brands build authentic connections. Her passion for wellness and travel translates into engaging narratives that inspire action.</p>
+                </div>
             </div>
         </section>
         <section class="blog-card">
@@ -100,7 +120,10 @@
             <div class="content">
                 <h2>Gayathri</h2>
                 <p>Fashion Model | Style Enthusiast | Elegance Redefined. Bringing trends to life with poise and creativity.</p>
-                <a href="gayathri.html">Read More</a> <!-- Link to Gayathri's detailed page -->
+                <a onclick="toggleContent('extra-gayathri')">Read More</a>
+                <div class="extra-content" id="extra-gayathri">
+                    <p>Gayathri’s journey in the world of fashion has been remarkable. Her editorial features and runway performances reflect her unique style and personality. She believes in empowering others through fashion and constantly explores ways to innovate the fashion industry.</p>
+                </div>
             </div>
         </section>
         <section class="blog-card">
@@ -108,7 +131,10 @@
             <div class="content">
                 <h2>Malavika</h2>
                 <p>Trendsetter | Lover of All Things Chic & Contemporary. Exploring fashion, lifestyle, and everything stylish.</p>
-                <a href="malavika.html">Read More</a> <!-- Link to Malavika's detailed page -->
+                <a onclick="toggleContent('extra-malavika')">Read More</a>
+                <div class="extra-content" id="extra-malavika">
+                    <p>Malavika’s modern aesthetic and keen eye for detail make her a sought-after figure in the fashion and lifestyle industry. From chic styling tips to contemporary trends, her blog serves as a source of inspiration for thousands of readers worldwide.</p>
+                </div>
             </div>
         </section>
     </main>
