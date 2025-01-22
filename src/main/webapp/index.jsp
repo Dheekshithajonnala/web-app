@@ -105,7 +105,7 @@
     </header>
     <main class="container">
         <section class="blog-card">
-            <img src="https://tse1.mm.bing.net/th?id=OIP.HE4uxYe-5o3VfSlz_83ZQwHaFj&pid=Api&P=0&h=180" alt="Dheekshitha">
+            <img src="https://malavika1.s3.us-east-1.amazonaws.com/dhikki+new+photo+copy.jpg">
             <div class="content">
                 <h2>Dheekshitha</h2>
                 <p>Creative thinker | Storyteller | Passionate about design, travel, and wellness. Sharing insights, ideas, and inspiration to spark your imagination.</p>
@@ -116,7 +116,7 @@
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://tse2.mm.bing.net/th?id=OIP.ooDzxNLznRyw2Qfck-9rcwHaHa&pid=Api&P=0&h=180" alt="Gayathri">
+            <img src="https://malavika1.s3.us-east-1.amazonaws.com/gayathri+photo+copy.jpg">
             <div class="content">
                 <h2>Gayathri</h2>
                 <p>Fashion Model | Style Enthusiast | Elegance Redefined. Bringing trends to life with poise and creativity.</p>
@@ -127,7 +127,7 @@
             </div>
         </section>
         <section class="blog-card">
-            <img src="https://tse3.mm.bing.net/th?id=OIP.WLRMJj8pT85iQg5Iy4B26QHaHa&pid=Api&P=0&h=180" alt="Malavika">
+            <img src="https://malavika1.s3.us-east-1.amazonaws.com/maalu+photo.jpg">
             <div class="content">
                 <h2>Malavika</h2>
                 <p>Trendsetter | Lover of All Things Chic & Contemporary. Exploring fashion, lifestyle, and everything stylish.</p>
