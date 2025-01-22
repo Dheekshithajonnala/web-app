@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog Page</title>
+    <title>The Fashionista Diaries</title>
     <style>
         body {
             margin: 0;
@@ -64,17 +64,10 @@
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s;
-            cursor: pointer;
         }
 
         .content a:hover {
             color: #ffc107;
-        }
-
-        .extra-content {
-            display: none;
-            margin-top: 15px;
-            color: #f0f0f0;
         }
 
         .footer {
@@ -87,16 +80,6 @@
             color: #fff;
         }
     </style>
-    <script>
-        function toggleContent(id) {
-            const content = document.getElementById(id);
-            if (content.style.display === "none" || content.style.display === "") {
-                content.style.display = "block";
-            } else {
-                content.style.display = "none";
-            }
-        }
-    </script>
 </head>
 <body>
     <header class="header">
@@ -109,10 +92,7 @@
             <div class="content">
                 <h2>Dheekshitha</h2>
                 <p>Creative thinker | Storyteller | Passionate about design, travel, and wellness. Sharing insights, ideas, and inspiration to spark your imagination.</p>
-                <a onclick="toggleContent('extra-dheekshitha')">Read More</a>
-                <div class="extra-content" id="extra-dheekshitha">
-                    <p>Dheekshitha combines creativity and analytics to craft stories that captivate audiences. With years of experience in storytelling, she helps brands build authentic connections. Her passion for wellness and travel translates into engaging narratives that inspire action.</p>
-                </div>
+                <a href="dheekshitha.html">Read More</a> <!-- Link to Dheekshitha's detailed page -->
             </div>
         </section>
         <section class="blog-card">
@@ -120,10 +100,7 @@
             <div class="content">
                 <h2>Gayathri</h2>
                 <p>Fashion Model | Style Enthusiast | Elegance Redefined. Bringing trends to life with poise and creativity.</p>
-                <a onclick="toggleContent('extra-gayathri')">Read More</a>
-                <div class="extra-content" id="extra-gayathri">
-                    <p>Gayathri’s journey in the world of fashion has been remarkable. Her editorial features and runway performances reflect her unique style and personality. She believes in empowering others through fashion and constantly explores ways to innovate the fashion industry.</p>
-                </div>
+                <a href="gayathri.html">Read More</a> <!-- Link to Gayathri's detailed page -->
             </div>
         </section>
         <section class="blog-card">
@@ -131,10 +108,7 @@
             <div class="content">
                 <h2>Malavika</h2>
                 <p>Trendsetter | Lover of All Things Chic & Contemporary. Exploring fashion, lifestyle, and everything stylish.</p>
-                <a onclick="toggleContent('extra-malavika')">Read More</a>
-                <div class="extra-content" id="extra-malavika">
-                    <p>Malavika’s modern aesthetic and keen eye for detail make her a sought-after figure in the fashion and lifestyle industry. From chic styling tips to contemporary trends, her blog serves as a source of inspiration for thousands of readers worldwide.</p>
-                </div>
+                <a href="malavika.html">Read More</a> <!-- Link to Malavika's detailed page -->
             </div>
         </section>
     </main>
@@ -143,3 +117,130 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dheekshitha | Our Blog</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('https://img.freepik.com/free-photo/black-background-with-leaves-vegetation-texture_23-2149872513.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+        }
+        .content {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, p {
+            text-align: center;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Dheekshitha's Journey</h1>
+        <p>Dheekshitha is a creative thinker, storyteller, and passionate individual. She blends creativity with insight and helps brands tell authentic stories. Here's a closer look at her journey:</p>
+
+        <div class="gallery">
+            <img src="https://example.com/dheekshitha-image1.jpg" alt="Dheekshitha Image 1">
+            <img src="https://example.com/dheekshitha-image2.jpg" alt="Dheekshitha Image 2">
+            <img src="https://example.com/dheekshitha-image3.jpg" alt="Dheekshitha Image 3">
+        </div>
+
+        <p>Her passion for wellness and travel drives her storytelling and inspires others to explore their creative potential. Learn more about her journey and vision.</p>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gayathri | Our Blog</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('https://img.freepik.com/free-photo/black-background-with-leaves-vegetation-texture_23-2149872513.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+        }
+        .content {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, p {
+            text-align: center;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Gayathri's Fashion Journey</h1>
+        <p>Gayathri is a fashion model and style enthusiast who defines elegance in the world of fashion. Here are some images showcasing her journey:</p>
+
+        <div class="gallery">
+            <img src="https://example.com/gayathri-image1.jpg" alt="Gayathri Image 1">
+            <img src="https://example.com/gayathri-image2.jpg" alt="Gayathri Image 2">
+            <img src="https://example.com/gayathri-image3.jpg" alt="Gayathri Image 3">
+        </div>
+
+        <p>Her passion for the runway and editorial work has been inspiring many in the fashion industry. She continues to innovate and bring fresh trends to the forefront.</p>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malavika | Our Blog</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('https://img.freepik.com/free-photo/black-background-with-leaves-vegetation-texture_23-2149872513.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+        }
+        .content {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, p {
+            text-align: center;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
